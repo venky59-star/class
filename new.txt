@@ -1,0 +1,26 @@
+$ git config --global user.name " veky59-star"
+
+$ git config --global user.email "svekateswarareddy14@gmail"
+{mail id which was given to github account}
+
+$git config --list
+[to check configuration settings]
+
+$mkdir klu[creating a directory]
+[C:\Users\HP\klu  ->new directory created ]
+
+$git clone https://github.com/venky59-star/class.git
+[cloning form online repo to local repo]
+
+$git status
+[red color to check files in staging area]
+
+$git aa filename
+
+$git status
+[green color that it is moving from staging area]
+
+$git commit -m 'program added on remote'
+
+$git push
+[file will be added to onlie repo form local directory]
